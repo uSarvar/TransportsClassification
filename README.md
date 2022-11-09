@@ -1,2 +1,2 @@
 # TransportsClassification
-Classification model of transports (airplane, boat, car).
+Classification model of three types(airplane, boat, car) of transports.
